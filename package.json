@@ -1,0 +1,18 @@
+{
+  "name": "react-default-source",
+  "version": "1.0.0",
+  "description": "A small library to allow default source image to show up if image fails.",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "react": "17.0.2"
+  },
+  "keywords": [
+    "react",
+    "img",
+    "component",
+    "default source"
+  ],
+  "author": "Ramon R.L. Terry",
+  "license": "MIT"
+}
